@@ -1,0 +1,136 @@
+[15:26:01] {Workgroup.py:41} INFO - input file selected {} + {}
+[15:26:15] {Workgroup.py:41} INFO - input file selected {} + {}
+[15:26:48] {Workgroup.py:41} INFO - input file selected {} + {}
+[15:26:56] {Workgroup.py:41} INFO - input file selected {} + {}
+[15:27:45] {Workgroup.py:38} INFO - input file selected {} + {}
+[15:27:46] {Workgroup.py:74} INFO - file opened success
+[15:27:46] {Workgroup.py:81} INFO - file closed success
+[15:28:49] {Workgroup.py:38} INFO - input file selected {} + {}
+[15:28:49] {Workgroup.py:74} INFO - file opened success
+[15:28:49] {Workgroup.py:76} INFO - file name is printed to outputfile
+[15:28:49] {Workgroup.py:82} INFO - file closed success
+[15:29:44] {Workgroup.py:38} INFO - input file selected {} + {}
+[15:29:44] {Workgroup.py:74} INFO - file opened success
+[15:30:52] {Workgroup.py:38} INFO - input file selected {} + {}
+[15:30:52] {Workgroup.py:74} INFO - file opened success
+[15:33:32] {Workgroup.py:38} INFO - input file selected {} + {}
+[15:33:32] {Workgroup.py:74} INFO - file opened success
+[15:34:54] {Workgroup.py:38} INFO - input file selected {} + {}
+[15:34:54] {Workgroup.py:74} INFO - file opened success
+[15:34:54] {Workgroup.py:82} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+[15:35:27] {Workgroup.py:38} INFO - input file selected {} + {}
+[15:35:27] {Workgroup.py:74} INFO - inputtest.txtfile opened success
+[15:35:27] {Workgroup.py:76} INFO - file name is printed to outputfileinputtest.txt
+[15:35:27] {Workgroup.py:82} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+[15:36:36] {Workgroup.py:38} INFO - input file selected {} + {}
+[15:36:36] {Workgroup.py:74} INFO - inputtest.txtfile opened success
+[15:36:36] {Workgroup.py:76} INFO - file name is printed to outputfileinputtest.txt
+[15:36:36] {Workgroup.py:82} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+[15:36:36] {Workgroup.py:84} INFO - file closed successinputtest.txt
+[15:37:07] {Workgroup.py:38} INFO - input file selected {} + {}
+[15:37:07] {Workgroup.py:74} INFO - inputtest.txtfile opened success
+[15:37:07] {Workgroup.py:76} INFO - file name is printed to outputfileinputtest.txt
+[15:37:07] {Workgroup.py:82} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+[15:37:07] {Workgroup.py:84} INFO - inputtest.txtfile closed success
+1575491949.107969 [15:39:09]  {Workgroup.py:38} INFO - input file selected {} + {}
+1575491949.110974 [15:39:09]  {Workgroup.py:74} INFO - inputtest.txtfile opened success
+1575491949.110974 [15:39:09]  {Workgroup.py:76} INFO - file name is printed to outputfileinputtest.txt
+1575491949.111972 [15:39:09]  {Workgroup.py:82} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+1575491949.111972 [15:39:09]  {Workgroup.py:84} INFO - inputtest.txtfile closed success
+1575491969.871645 [15:39:29]  {Workgroup.py:38} INFO - input file selected {} + {}
+1575491969.8746479 [15:39:29]  {Workgroup.py:74} INFO - inputtest.txtfile opened success
+1575491969.8746479 [15:39:29]  {Workgroup.py:76} INFO - file name is printed to outputfileinputtest.txt
+1575491969.8746479 [15:39:29]  {Workgroup.py:82} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+1575491969.875645 [15:39:29]  {Workgroup.py:84} INFO - inputtest.txtfile closed success
+ [2019-12-04 15:40:58]  {Workgroup.py:38} INFO - input file selected {} + {}
+ [2019-12-04 15:40:58]  {Workgroup.py:74} INFO - inputtest.txtfile opened success
+ [2019-12-04 15:40:58]  {Workgroup.py:76} INFO - file name is printed to outputfileinputtest.txt
+ [2019-12-04 15:40:58]  {Workgroup.py:82} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+ [2019-12-04 15:40:58]  {Workgroup.py:84} INFO - inputtest.txtfile closed success
+ [2019-12-04 15:41:17]  {Workgroup.py:38} INFO - input file selected {} + {}
+ [2019-12-04 15:41:17]  {Workgroup.py:74} INFO - inputtest.txtfile opened success
+ [2019-12-04 15:41:17]  {Workgroup.py:76} INFO - file name is printed to outputfileinputtest.txt
+ [2019-12-04 15:41:17]  {Workgroup.py:82} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+ [2019-12-04 15:41:17]  {Workgroup.py:84} INFO - inputtest.txtfile closed success
+ [2019-12-04 15:41:19]  {Workgroup.py:38} INFO - input file selected {} + {}
+ [2019-12-04 15:41:19]  {Workgroup.py:74} INFO - inputtest.txtfile opened success
+ [2019-12-04 15:41:19]  {Workgroup.py:76} INFO - file name is printed to outputfileinputtest.txt
+ [2019-12-04 15:41:19]  {Workgroup.py:82} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+ [2019-12-04 15:41:19]  {Workgroup.py:84} INFO - inputtest.txtfile closed success
+ [2019-12-04 15:41:20]  {Workgroup.py:38} INFO - input file selected {} + {}
+ [2019-12-04 15:41:20]  {Workgroup.py:74} INFO - inputtest.txtfile opened success
+ [2019-12-04 15:41:20]  {Workgroup.py:76} INFO - file name is printed to outputfileinputtest.txt
+ [2019-12-04 15:41:20]  {Workgroup.py:82} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+ [2019-12-04 15:41:20]  {Workgroup.py:84} INFO - inputtest.txtfile closed success
+ [2019-12-04 15:41:20]  {Workgroup.py:38} INFO - input file selected {} + {}
+ [2019-12-04 15:41:20]  {Workgroup.py:74} INFO - inputtest.txtfile opened success
+ [2019-12-04 15:41:20]  {Workgroup.py:76} INFO - file name is printed to outputfileinputtest.txt
+ [2019-12-04 15:41:20]  {Workgroup.py:82} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+ [2019-12-04 15:41:20]  {Workgroup.py:84} INFO - inputtest.txtfile closed success
+ [2019-12-04 15:41:20]  {Workgroup.py:38} INFO - input file selected {} + {}
+ [2019-12-04 15:41:20]  {Workgroup.py:74} INFO - inputtest.txtfile opened success
+ [2019-12-04 15:41:20]  {Workgroup.py:76} INFO - file name is printed to outputfileinputtest.txt
+ [2019-12-04 15:41:20]  {Workgroup.py:82} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+ [2019-12-04 15:41:20]  {Workgroup.py:84} INFO - inputtest.txtfile closed success
+ [2019-12-04 15:41:21]  {Workgroup.py:38} INFO - input file selected {} + {}
+ [2019-12-04 15:41:21]  {Workgroup.py:74} INFO - inputtest.txtfile opened success
+ [2019-12-04 15:41:21]  {Workgroup.py:76} INFO - file name is printed to outputfileinputtest.txt
+ [2019-12-04 15:41:21]  {Workgroup.py:82} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+ [2019-12-04 15:41:21]  {Workgroup.py:84} INFO - inputtest.txtfile closed success
+ [2019-12-04 15:41:21]  {Workgroup.py:38} INFO - input file selected {} + {}
+ [2019-12-04 15:41:21]  {Workgroup.py:74} INFO - inputtest.txtfile opened success
+ [2019-12-04 15:41:21]  {Workgroup.py:76} INFO - file name is printed to outputfileinputtest.txt
+ [2019-12-04 15:41:21]  {Workgroup.py:82} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+ [2019-12-04 15:41:21]  {Workgroup.py:84} INFO - inputtest.txtfile closed success
+ [2019-12-04 15:41:21]  {Workgroup.py:38} INFO - input file selected {} + {}
+ [2019-12-04 15:41:21]  {Workgroup.py:74} INFO - inputtest.txtfile opened success
+ [2019-12-04 15:41:21]  {Workgroup.py:76} INFO - file name is printed to outputfileinputtest.txt
+ [2019-12-04 15:41:21]  {Workgroup.py:82} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+ [2019-12-04 15:41:21]  {Workgroup.py:84} INFO - inputtest.txtfile closed success
+ [2019-12-04 15:41:21]  {Workgroup.py:38} INFO - input file selected {} + {}
+ [2019-12-04 15:41:21]  {Workgroup.py:74} INFO - inputtest.txtfile opened success
+ [2019-12-04 15:41:21]  {Workgroup.py:76} INFO - file name is printed to outputfileinputtest.txt
+ [2019-12-04 15:41:21]  {Workgroup.py:82} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+ [2019-12-04 15:41:21]  {Workgroup.py:84} INFO - inputtest.txtfile closed success
+ [2019-12-04 15:41:22]  {Workgroup.py:38} INFO - input file selected {} + {}
+ [2019-12-04 15:41:22]  {Workgroup.py:74} INFO - inputtest.txtfile opened success
+ [2019-12-04 15:41:22]  {Workgroup.py:76} INFO - file name is printed to outputfileinputtest.txt
+ [2019-12-04 15:41:22]  {Workgroup.py:82} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+ [2019-12-04 15:41:22]  {Workgroup.py:84} INFO - inputtest.txtfile closed success
+ [2019-12-04 15:44:53]  {Workgroup.py:38} INFO - input file selected {} + {}
+ [2019-12-04 15:44:53]  {Workgroup.py:53} INFO - Read the file stats success
+ [2019-12-04 15:44:53]  {Workgroup.py:78} INFO - inputtest.txtfile opened success
+ [2019-12-04 15:44:53]  {Workgroup.py:80} INFO - file name is printed to outputfileinputtest.txt
+ [2019-12-04 15:44:53]  {Workgroup.py:86} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+ [2019-12-04 15:44:53]  {Workgroup.py:88} INFO - inputtest.txtfile closed success
+ [2019-12-04 15:45:46]  {Workgroup.py:38} INFO - input file selected {} + {}
+ [2019-12-04 15:45:46]  {Workgroup.py:53} INFO - Read the file stats success
+ [2019-12-04 15:45:46]  {Workgroup.py:54} INFO - File Contents Read Success
+ [2019-12-04 15:45:46]  {Workgroup.py:79} INFO - inputtest.txtfile opened success
+ [2019-12-04 15:45:46]  {Workgroup.py:81} INFO - file name is printed to outputfileinputtest.txt
+ [2019-12-04 15:45:46]  {Workgroup.py:87} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+ [2019-12-04 15:45:46]  {Workgroup.py:89} INFO - inputtest.txtfile closed success
+ [2019-12-04 15:46:35]  {Workgroup.py:38} INFO - input file selected {} + {}
+ [2019-12-04 15:46:35]  {Workgroup.py:51} INFO - Week 7 Solution, Professor Hosmer
+ [2019-12-04 15:46:35]  {Workgroup.py:55} INFO - Read the file stats success
+ [2019-12-04 15:46:35]  {Workgroup.py:56} INFO - File Contents Read Success
+ [2019-12-04 15:46:35]  {Workgroup.py:81} INFO - inputtest.txtfile opened success
+ [2019-12-04 15:46:35]  {Workgroup.py:83} INFO - file name is printed to outputfileinputtest.txt
+ [2019-12-04 15:46:35]  {Workgroup.py:89} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+ [2019-12-04 15:46:35]  {Workgroup.py:91} INFO - inputtest.txtfile closed success
+ [2019-12-04 15:58:00]  {C:\Users\User\PycharmProjects\LogParsing\Workgroup.py:34} INFO - input file selected {} + {}
+ [2019-12-04 15:58:00]  {C:\Users\User\PycharmProjects\LogParsing\Workgroup.py:47} INFO - Week 7 Solution, Professor Hosmer
+ [2019-12-04 15:58:00]  {C:\Users\User\PycharmProjects\LogParsing\Workgroup.py:51} INFO - Read the file stats success
+ [2019-12-04 15:58:00]  {C:\Users\User\PycharmProjects\LogParsing\Workgroup.py:52} INFO - File Contents Read Success
+ [2019-12-04 15:58:00]  {C:\Users\User\PycharmProjects\LogParsing\Workgroup.py:77} INFO - inputtest.txtfile opened success
+ [2019-12-04 15:58:00]  {C:\Users\User\PycharmProjects\LogParsing\Workgroup.py:79} INFO - file name is printed to outputfileinputtest.txt
+ [2019-12-04 15:58:00]  {C:\Users\User\PycharmProjects\LogParsing\Workgroup.py:85} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+ [2019-12-04 15:58:00]  {C:\Users\User\PycharmProjects\LogParsing\Workgroup.py:87} INFO - inputtest.txtfile closed success
+ [2019-12-04 16:05:01]  {C:\Users\User\PycharmProjects\LogParsing\Workgroup.py:34} INFO - input file selected {} + {}
+ [2019-12-04 16:05:01]  {C:\Users\User\PycharmProjects\LogParsing\Workgroup.py:47} INFO - Week 7 Solution, Professor Hosmer
+ [2019-12-04 16:05:01]  {C:\Users\User\PycharmProjects\LogParsing\Workgroup.py:51} INFO - Read the file stats success
+ [2019-12-04 16:05:01]  {C:\Users\User\PycharmProjects\LogParsing\Workgroup.py:52} INFO - File Contents Read Success
+ [2019-12-04 16:05:01]  {C:\Users\User\PycharmProjects\LogParsing\Workgroup.py:77} INFO - inputtest.txtfile opened success
+ [2019-12-04 16:05:01]  {C:\Users\User\PycharmProjects\LogParsing\Workgroup.py:79} INFO - file name is printed to outputfileinputtest.txt
+ [2019-12-04 16:05:01]  {C:\Users\User\PycharmProjects\LogParsing\Workgroup.py:85} INFO - SHA2569b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
+ [2019-12-04 16:05:01]  {C:\Users\User\PycharmProjects\LogParsing\Workgroup.py:87} INFO - inputtest.txtfile closed success

@@ -1,0 +1,4 @@
+File Name:  inputtest.txt
+File Size:  45
+Date modified: 2019-12-04 14:21:20.443403
+File Header: 9b26c66251dadbcd5eea19d398851ca0bd00c95ed0f07a9c1aa2deeafff5cfd2
